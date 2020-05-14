@@ -5,8 +5,8 @@ This repository contains the dataset and codes necessary for the project and fin
 
 ## Repository Components
 
-1. In Class Activities
+1. In Class Activities (30% of final grade)
 
-2. Assignments
+2. Assignments (30% of final grade)
 
-3. Final Project
+3. Final Project (40% of final grade)
